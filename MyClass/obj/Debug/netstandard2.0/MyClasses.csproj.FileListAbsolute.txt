@@ -1,0 +1,8 @@
+C:\Users\Filipe-PC\Desktop\GitHub_Novo\UnitTests\MyClass\MyClass\bin\Debug\netstandard2.0\MyClasses.deps.json
+C:\Users\Filipe-PC\Desktop\GitHub_Novo\UnitTests\MyClass\MyClass\bin\Debug\netstandard2.0\MyClasses.dll
+C:\Users\Filipe-PC\Desktop\GitHub_Novo\UnitTests\MyClass\MyClass\bin\Debug\netstandard2.0\MyClasses.pdb
+C:\Users\Filipe-PC\Desktop\GitHub_Novo\UnitTests\MyClass\MyClass\obj\Debug\netstandard2.0\MyClasses.csproj.CoreCompileInputs.cache
+C:\Users\Filipe-PC\Desktop\GitHub_Novo\UnitTests\MyClass\MyClass\obj\Debug\netstandard2.0\MyClasses.AssemblyInfoInputs.cache
+C:\Users\Filipe-PC\Desktop\GitHub_Novo\UnitTests\MyClass\MyClass\obj\Debug\netstandard2.0\MyClasses.AssemblyInfo.cs
+C:\Users\Filipe-PC\Desktop\GitHub_Novo\UnitTests\MyClass\MyClass\obj\Debug\netstandard2.0\MyClasses.dll
+C:\Users\Filipe-PC\Desktop\GitHub_Novo\UnitTests\MyClass\MyClass\obj\Debug\netstandard2.0\MyClasses.pdb
