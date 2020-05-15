@@ -48,6 +48,7 @@ namespace MyClessesTest
         }
 
         [TestMethod]
+        [Owner("FilipeF")]
         public void FileNameDoesExists()
         {
             var fileProcess = new FileProcess();
@@ -63,6 +64,7 @@ namespace MyClessesTest
 
 
         [TestMethod]
+        [Owner("FilipeF")]
         public void FileNameDoesNotExists()
         {
             var fileProcess = new FileProcess();
@@ -75,6 +77,7 @@ namespace MyClessesTest
         }
 
         [TestMethod]
+        [Owner("FilipeF")]
         [ExpectedException(typeof(ArgumentNullException))]
         public void FileNameNullOrEmpty_ThrowsNewArgumentNullException()
         {
@@ -85,6 +88,7 @@ namespace MyClessesTest
         }
 
         [TestMethod]
+        [Owner("FilipeF")]
         public void FileNameNullOrEmpty_ThrowsNewArgumentNullException_UsingTryCatch()
         {
             try
@@ -97,6 +101,13 @@ namespace MyClessesTest
                 return;
             }
             Assert.Fail();
+        }
+
+        [TestMethod]
+        [Description("Checa se metodo processará antes do termino de tempo limite.")]
+        [Timeout(2000)]
+        public void SimulateTimout() {
+            System.Threading.Thread.Sleep(1000);
         }
     }
 }
